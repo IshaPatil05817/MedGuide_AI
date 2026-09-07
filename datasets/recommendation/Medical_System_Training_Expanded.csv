@@ -1,0 +1,209 @@
+Disease,Symptoms,Medical_System
+Migraine,"headache,nausea,vomiting",Allopathy
+Migraine,"nausea,headache",Allopathy
+Migraine,"nausea,vomiting",Allopathy
+Migraine,"vomiting,nausea",Allopathy
+Migraine,"headache,nausea",Allopathy
+Tuberculosis,"cough,fever,weight_loss",Allopathy
+Tuberculosis,"weight_loss,fever",Allopathy
+Tuberculosis,"fever,cough",Allopathy
+Tuberculosis,"cough,fever",Allopathy
+Tuberculosis,"fever,weight_loss",Allopathy
+Tuberculosis,"cough,weight_loss",Allopathy
+Dengue,"high_fever,nausea,pain_behind_the_eyes",Allopathy
+Dengue,"pain_behind_the_eyes,nausea",Allopathy
+Dengue,"pain_behind_the_eyes,high_fever",Allopathy
+Dengue,"nausea,pain_behind_the_eyes",Allopathy
+Dengue,"high_fever,pain_behind_the_eyes",Allopathy
+Dengue,"nausea,high_fever",Allopathy
+Pneumonia,"cough,breathlessness,high_fever",Allopathy
+Pneumonia,"cough,breathlessness",Allopathy
+Pneumonia,"breathlessness,cough",Allopathy
+Pneumonia,"high_fever,breathlessness",Allopathy
+Pneumonia,"high_fever,cough",Allopathy
+Pneumonia,"cough,high_fever",Allopathy
+Heart attack,"chest_pain,sweating,fast_heart_rate",Allopathy
+Heart attack,"chest_pain,fast_heart_rate",Allopathy
+Heart attack,"sweating,fast_heart_rate",Allopathy
+Heart attack,"fast_heart_rate,chest_pain",Allopathy
+Heart attack,"chest_pain,sweating",Allopathy
+Heart attack,"sweating,chest_pain",Allopathy
+Malaria,"high_fever,chills,sweating",Allopathy
+Malaria,"high_fever,sweating",Allopathy
+Malaria,"chills,high_fever",Allopathy
+Malaria,"high_fever,chills",Allopathy
+Malaria,"sweating,chills",Allopathy
+Malaria,"chills,sweating",Allopathy
+Typhoid,"high_fever,abdominal_pain,weakness",Allopathy
+Typhoid,"abdominal_pain,weakness",Allopathy
+Typhoid,"high_fever,weakness",Allopathy
+Typhoid,"weakness,abdominal_pain",Allopathy
+Typhoid,"high_fever,abdominal_pain",Allopathy
+Typhoid,"weakness,high_fever",Allopathy
+Fungal infection,"itching,skin_rash,skin_peeling",Allopathy
+Fungal infection,"skin_rash,skin_peeling",Allopathy
+Fungal infection,"skin_peeling,skin_rash",Allopathy
+Fungal infection,"skin_rash,itching",Allopathy
+Fungal infection,"itching,skin_rash",Allopathy
+Fungal infection,"itching,skin_peeling",Allopathy
+Urinary tract infection,"burning_micturition,continuous_feel_of_urine",Allopathy
+Urinary tract infection,"continuous_feel_of_urine,burning_micturition",Allopathy
+Hepatitis B,"yellowish_skin,dark_urine,fatigue",Allopathy
+Hepatitis B,"dark_urine,fatigue",Allopathy
+Hepatitis B,"dark_urine,yellowish_skin",Allopathy
+Hepatitis B,"yellowish_skin,dark_urine",Allopathy
+Hepatitis B,"fatigue,dark_urine",Allopathy
+Hepatitis C,"yellowish_skin,fatigue,loss_of_appetite",Allopathy
+Hepatitis C,"yellowish_skin,fatigue",Allopathy
+Hepatitis C,"loss_of_appetite,yellowish_skin",Allopathy
+Hepatitis C,"fatigue,loss_of_appetite",Allopathy
+Hepatitis C,"loss_of_appetite,fatigue",Allopathy
+Hepatitis C,"fatigue,yellowish_skin",Allopathy
+Drug Reaction,"skin_rash,itching,redness_of_eyes",Allopathy
+Drug Reaction,"itching,redness_of_eyes",Allopathy
+Drug Reaction,"itching,skin_rash",Allopathy
+Drug Reaction,"skin_rash,redness_of_eyes",Allopathy
+Drug Reaction,"redness_of_eyes,itching",Allopathy
+Drug Reaction,"skin_rash,itching",Allopathy
+Paralysis,"weakness_of_one_body_side,slurred_speech,loss_of_balance",Allopathy
+Paralysis,"loss_of_balance,slurred_speech",Allopathy
+Paralysis,"loss_of_balance,weakness_of_one_body_side",Allopathy
+Paralysis,"slurred_speech,weakness_of_one_body_side",Allopathy
+Paralysis,"slurred_speech,loss_of_balance",Allopathy
+Chicken pox,"skin_rash,mild_fever,blister",Allopathy
+Chicken pox,"blister,mild_fever",Allopathy
+Chicken pox,"skin_rash,blister",Allopathy
+Chicken pox,"skin_rash,mild_fever",Allopathy
+Chicken pox,"mild_fever,blister",Allopathy
+Chicken pox,"blister,skin_rash",Allopathy
+Indigestion,"indigestion,stomach_pain,acidity",Ayurveda
+Indigestion,"indigestion,acidity",Ayurveda
+Indigestion,"stomach_pain,indigestion",Ayurveda
+Indigestion,"stomach_pain,acidity",Ayurveda
+Indigestion,"indigestion,stomach_pain",Ayurveda
+Indigestion,"acidity,stomach_pain",Ayurveda
+Constipation,"constipation,abdominal_pain,stomach_pain",Ayurveda
+Constipation,"constipation,abdominal_pain",Ayurveda
+Constipation,"abdominal_pain,stomach_pain",Ayurveda
+Constipation,"stomach_pain,constipation",Ayurveda
+Constipation,"abdominal_pain,constipation",Ayurveda
+Constipation,"stomach_pain,abdominal_pain",Ayurveda
+Arthritis,"joint_pain,swelling_joints,movement_stiffness",Ayurveda
+Arthritis,"swelling_joints,movement_stiffness",Ayurveda
+Arthritis,"joint_pain,movement_stiffness",Ayurveda
+Arthritis,"movement_stiffness,swelling_joints",Ayurveda
+Arthritis,"movement_stiffness,joint_pain",Ayurveda
+Cervical spondylosis,"neck_pain,stiff_neck,movement_stiffness",Ayurveda
+Cervical spondylosis,"movement_stiffness,stiff_neck",Ayurveda
+Cervical spondylosis,"movement_stiffness,neck_pain",Ayurveda
+Cervical spondylosis,"neck_pain,stiff_neck",Ayurveda
+Cervical spondylosis,"stiff_neck,neck_pain",Ayurveda
+Osteoarthristis,"knee_pain,hip_joint_pain,joint_pain",Ayurveda
+Osteoarthristis,"joint_pain,hip_joint_pain",Ayurveda
+Osteoarthristis,"hip_joint_pain,knee_pain",Ayurveda
+Osteoarthristis,"joint_pain,knee_pain",Ayurveda
+Osteoarthristis,"knee_pain,joint_pain",Ayurveda
+Hypertension,"headache,dizziness,palpitations",Ayurveda
+Hypertension,"palpitations,headache",Ayurveda
+Hypertension,"headache,dizziness",Ayurveda
+Hypertension,"dizziness,palpitations",Ayurveda
+Hypertension,"headache,palpitations",Ayurveda
+Hypertension,"palpitations,dizziness",Ayurveda
+Obesity,"obesity,weight_gain,increased_appetite",Ayurveda
+Obesity,"increased_appetite,weight_gain",Ayurveda
+Obesity,"obesity,weight_gain",Ayurveda
+Obesity,"weight_gain,increased_appetite",Ayurveda
+Obesity,"obesity,increased_appetite",Ayurveda
+Obesity,"weight_gain,obesity",Ayurveda
+Anxiety,"anxiety,restlessness,mood_swings",Ayurveda
+Anxiety,"anxiety,restlessness",Ayurveda
+Anxiety,"restlessness,anxiety",Ayurveda
+Anxiety,"restlessness,mood_swings",Ayurveda
+Anxiety,"mood_swings,restlessness",Ayurveda
+Anxiety,"anxiety,mood_swings",Ayurveda
+Fatigue,"fatigue,weakness,lethargy",Ayurveda
+Fatigue,"weakness,lethargy",Ayurveda
+Fatigue,"fatigue,weakness",Ayurveda
+Fatigue,"lethargy,fatigue",Ayurveda
+Acne,"pus_filled_pimples,blackheads,skin_rash",Ayurveda
+Acne,"pus_filled_pimples,blackheads",Ayurveda
+Acne,"blackheads,pus_filled_pimples",Ayurveda
+Acne,"skin_rash,blackheads",Ayurveda
+Acne,"skin_rash,pus_filled_pimples",Ayurveda
+Acne,"blackheads,skin_rash",Ayurveda
+Psoriasis,"skin_rash,silver_like_dusting,skin_peeling",Ayurveda
+Psoriasis,"skin_peeling,skin_rash",Ayurveda
+Psoriasis,"silver_like_dusting,skin_rash",Ayurveda
+Psoriasis,"skin_rash,skin_peeling",Ayurveda
+Psoriasis,"skin_peeling,silver_like_dusting",Ayurveda
+Psoriasis,"silver_like_dusting,skin_peeling",Ayurveda
+Varicose veins,"swollen_legs,swollen_blood_vessels,painful_walking",Ayurveda
+Varicose veins,"painful_walking,swollen_blood_vessels",Ayurveda
+Varicose veins,"swollen_legs,swollen_blood_vessels",Ayurveda
+Varicose veins,"painful_walking,swollen_legs",Ayurveda
+Varicose veins,"swollen_blood_vessels,swollen_legs",Ayurveda
+Varicose veins,"swollen_blood_vessels,painful_walking",Ayurveda
+Common Cold,"continuous_sneezing,runny_nose,congestion",Homeopathy
+Common Cold,"continuous_sneezing,congestion",Homeopathy
+Common Cold,"congestion,runny_nose",Homeopathy
+Common Cold,"congestion,continuous_sneezing",Homeopathy
+Common Cold,"continuous_sneezing,runny_nose",Homeopathy
+Allergy,"continuous_sneezing,watering_from_eyes,runny_nose",Homeopathy
+Allergy,"runny_nose,watering_from_eyes",Homeopathy
+Allergy,"runny_nose,continuous_sneezing",Homeopathy
+Allergy,"continuous_sneezing,watering_from_eyes",Homeopathy
+Allergy,"continuous_sneezing,runny_nose",Homeopathy
+Cough,"cough,throat_irritation,phlegm",Homeopathy
+Cough,"phlegm,cough",Homeopathy
+Cough,"cough,throat_irritation",Homeopathy
+Cough,"phlegm,throat_irritation",Homeopathy
+Cough,"cough,phlegm",Homeopathy
+Cough,"throat_irritation,phlegm",Homeopathy
+Cough,"throat_irritation,cough",Homeopathy
+Sinusitis,"sinus_pressure,headache,congestion",Homeopathy
+Sinusitis,"sinus_pressure,headache",Homeopathy
+Sinusitis,"sinus_pressure,congestion",Homeopathy
+Sinusitis,"headache,sinus_pressure",Homeopathy
+Sinusitis,"headache,congestion",Homeopathy
+Sore throat,"patches_in_throat,throat_irritation,cough",Homeopathy
+Sore throat,"patches_in_throat,throat_irritation",Homeopathy
+Sore throat,"cough,patches_in_throat",Homeopathy
+Sore throat,"patches_in_throat,cough",Homeopathy
+Sore throat,"throat_irritation,cough",Homeopathy
+Nausea,"nausea,vomiting,stomach_pain",Homeopathy
+Nausea,"vomiting,nausea",Homeopathy
+Nausea,"nausea,stomach_pain",Homeopathy
+Nausea,"stomach_pain,vomiting",Homeopathy
+Nausea,"nausea,vomiting",Homeopathy
+Vertigo,"dizziness,spinning_movements,loss_of_balance",Homeopathy
+Vertigo,"loss_of_balance,dizziness",Homeopathy
+Vertigo,"dizziness,loss_of_balance",Homeopathy
+Vertigo,"spinning_movements,dizziness",Homeopathy
+Vertigo,"dizziness,spinning_movements",Homeopathy
+Vertigo,"loss_of_balance,spinning_movements",Homeopathy
+Vertigo,"spinning_movements,loss_of_balance",Homeopathy
+Headache,"headache,dizziness,fatigue",Homeopathy
+Headache,"fatigue,dizziness",Homeopathy
+Headache,"headache,dizziness",Homeopathy
+Headache,"dizziness,fatigue",Homeopathy
+Headache,"headache,fatigue",Homeopathy
+Insomnia,"restlessness,anxiety,fatigue",Homeopathy
+Insomnia,"anxiety,fatigue",Homeopathy
+Insomnia,"restlessness,fatigue",Homeopathy
+Insomnia,"restlessness,anxiety",Homeopathy
+Insomnia,"anxiety,restlessness",Homeopathy
+Stress,"anxiety,restlessness,lack_of_concentration",Homeopathy
+Stress,"anxiety,lack_of_concentration",Homeopathy
+Stress,"restlessness,anxiety",Homeopathy
+Stress,"lack_of_concentration,restlessness",Homeopathy
+Stress,"restlessness,lack_of_concentration",Homeopathy
+Skin irritation,"itching,skin_rash,redness_of_eyes",Homeopathy
+Skin irritation,"itching,skin_rash",Homeopathy
+Skin irritation,"redness_of_eyes,itching",Homeopathy
+Skin irritation,"skin_rash,redness_of_eyes",Homeopathy
+Skin irritation,"itching,redness_of_eyes",Homeopathy
+Muscle pain,"muscle_pain,muscle_weakness,fatigue",Homeopathy
+Muscle pain,"muscle_weakness,muscle_pain",Homeopathy
+Muscle pain,"fatigue,muscle_pain",Homeopathy
+Muscle pain,"muscle_pain,fatigue",Homeopathy
+Muscle pain,"muscle_pain,muscle_weakness",Homeopathy

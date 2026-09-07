@@ -1,0 +1,42 @@
+Disease,Primary_Medical_System,Yoga_Recommendation,Specialist,Recommendation_Reason,Evidence_Source
+Migraine,Allopathy,Yoga-based relaxation and stress-management practices,Neurologist,Medical evaluation is appropriate; yoga may be considered as complementary stress-management support,WHO
+Diabetes,Allopathy,Yoga-based gentle movement and stress-management practices,Endocrinologist,Medical management and monitoring are primary; yoga may complement lifestyle management,WHO
+Arthritis,Allopathy,Gentle yoga and mobility practices,Orthopedic Specialist,Medical assessment is primary; appropriately adapted movement may support mobility and wellbeing,WHO
+Bronchial Asthma,Allopathy,Gentle breathing and relaxation-focused yoga,Pulmonologist,Medical asthma management remains primary; complementary breathing and relaxation practices may support wellbeing,WHO
+GERD,Allopathy,Gentle yoga and relaxation practices,Gastroenterologist,Medical evaluation and lifestyle management are primary; complementary relaxation practices may be considered,WHO
+Common Cold,Allopathy,Gentle relaxation and breathing practices,General Physician,Most cases require supportive care and monitoring; yoga may be used only as a complementary wellness activity,WHO
+Tuberculosis,Allopathy,No disease-treatment yoga recommendation,Pulmonologist,Medical diagnosis and antimicrobial treatment are essential; yoga should not replace treatment,WHO
+Dengue,Allopathy,No disease-treatment yoga recommendation,General Physician,Medical monitoring and appropriate supportive management are essential; yoga should not replace medical care,WHO
+Heart attack,Allopathy,No disease-treatment yoga recommendation,Cardiologist,Immediate medical evaluation and cardiac care are essential; yoga should not replace emergency treatment,WHO
+Pneumonia,Allopathy,No disease-treatment yoga recommendation,Pulmonologist,Medical evaluation and appropriate treatment are essential; yoga should not replace treatment,WHO
+Psoriasis,Allopathy,Gentle yoga and stress-management practices,Dermatologist,Medical dermatological care is primary; complementary stress-management may support wellbeing,WHO
+Typhoid,Allopathy,No disease-treatment yoga recommendation,General Physician,Medical diagnosis and appropriate antimicrobial treatment are essential; yoga should not replace treatment,WHO
+Urinary tract infection,Allopathy,No disease-treatment yoga recommendation,Urologist,Medical evaluation and appropriate treatment are required; yoga should not replace treatment,WHO
+Varicose veins,Allopathy,Gentle yoga and mobility practices,Vascular Specialist,Medical assessment is primary; appropriately adapted physical activity may support general wellbeing,WHO
+Hypothyroidism,Allopathy,Gentle yoga and stress-management practices,Endocrinologist,Medical monitoring and appropriate thyroid treatment are primary; yoga may complement general wellbeing,WHO
+Hyperthyroidism,Allopathy,Gentle relaxation and stress-management practices,Endocrinologist,Medical evaluation and treatment are primary; yoga should only be complementary and appropriately adapted,WHO
+Hypoglycemia,Allopathy,No disease-treatment yoga recommendation,Endocrinologist,Low blood glucose can require prompt medical management; yoga should not replace appropriate treatment,WHO
+AIDS,Allopathy,No disease-treatment yoga recommendation,Infectious Disease Specialist,Medical evaluation and appropriate HIV care are essential; yoga should only be complementary to medical care,WHO
+Acne,Allopathy,Gentle yoga and stress-management practices,Dermatologist,Dermatological evaluation is primary; stress-management may be used as complementary wellness support,WHO
+Allergy,Allopathy,Gentle breathing and relaxation practices,Allergist/Immunologist,Medical assessment and appropriate allergy management are primary; yoga may be considered as complementary wellbeing support,WHO
+Fungal infection,Allopathy,No disease-treatment yoga recommendation,Dermatologist,Appropriate diagnosis and antifungal treatment are primary; yoga should not replace treatment,WHO
+Gastroenteritis,Allopathy,No disease-treatment yoga recommendation,Gastroenterologist,Hydration and appropriate medical assessment are primary; yoga should not replace treatment during acute illness,WHO
+Paralysis (brain hemorrhage),Allopathy,No disease-treatment yoga recommendation,Neurologist,Emergency neurological care and rehabilitation are essential; yoga should only be considered under professional guidance during recovery,WHO
+Impetigo,Allopathy,No disease-treatment yoga recommendation,Dermatologist,Medical assessment and appropriate treatment are required; yoga does not treat the underlying infection,WHO
+Hypertension,Allopathy,Yoga-based relaxation and breathing practices,Cardiologist,Medical blood-pressure management remains primary; complementary practices may support wellbeing,WHO
+Dimorphic hemmorhoids(piles),Allopathy,Gentle yoga and mobility practices,General Surgeon,Medical evaluation and appropriate management are primary; adapted activity may support general wellbeing,WHO
+Drug Reaction,Allopathy,No disease-treatment yoga recommendation,Allergist/Immunologist,Drug reactions require medical assessment and removal or management of the causative medicine; yoga should not replace treatment,WHO
+(vertigo) Paroymsal  Positional Vertigo,Allopathy,Gentle balance-focused yoga only under professional guidance,ENT Specialist,Medical assessment is important to identify the cause of vertigo; exercise should be appropriately supervised,WHO
+Alcoholic hepatitis,Allopathy,No disease-treatment yoga recommendation,Gastroenterologist/Hepatologist,Liver disease requires medical evaluation and management; yoga should not replace treatment,WHO
+Cervical spondylosis,Allopathy,Gentle yoga and mobility practices,Orthopedic Specialist,Medical assessment is primary; appropriately adapted movement may support mobility and wellbeing,WHO
+Chicken pox,Allopathy,No disease-treatment yoga recommendation,General Physician,Acute infection requires appropriate medical assessment and supportive care; yoga should not replace treatment,WHO
+Chronic cholestasis,Allopathy,No disease-treatment yoga recommendation,Hepatologist,Underlying liver or biliary disease requires medical evaluation and management; yoga should not replace treatment,WHO
+Hepatitis B,Allopathy,No disease-treatment yoga recommendation,Hepatologist,Medical monitoring and appropriate management are essential; yoga should not replace treatment,WHO
+Hepatitis C,Allopathy,No disease-treatment yoga recommendation,Hepatologist,Medical evaluation and antiviral management are essential; yoga should not replace treatment,WHO
+Hepatitis D,Allopathy,No disease-treatment yoga recommendation,Hepatologist,Medical evaluation and appropriate liver disease management are essential; yoga should not replace treatment,WHO
+Hepatitis E,Allopathy,No disease-treatment yoga recommendation,Hepatologist,Medical assessment and appropriate supportive management are important; yoga should not replace medical care,WHO
+Jaundice,Allopathy,No disease-treatment yoga recommendation,Gastroenterologist/Hepatologist,Jaundice can have multiple causes and requires medical evaluation; yoga should not replace diagnosis or treatment,WHO
+Malaria,Allopathy,No disease-treatment yoga recommendation,Infectious Disease Specialist,Prompt diagnosis and appropriate antimalarial treatment are essential; yoga should not replace treatment,WHO
+Osteoarthristis,Allopathy,Gentle yoga and mobility practices,Orthopedic Specialist,Medical assessment is primary; appropriately adapted movement may support mobility and general wellbeing,WHO
+Peptic ulcer diseae,Allopathy,No disease-treatment yoga recommendation,Gastroenterologist,Medical evaluation and appropriate treatment are required; yoga should not replace treatment,WHO
+Hepatitis A,Allopathy,No disease-treatment yoga recommendation,Hepatologist/Gastroenterologist,Medical assessment and appropriate supportive care are important; yoga should not replace medical management,WHO
